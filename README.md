@@ -4,4 +4,4 @@
 นางสาวกุลศิริ เทศสนั่น รหัสนักศึกษา 683020564-6
 
 "This sentence is written on Hub"
-"This sentence is written by นางสาวกุลศิริ เทศสนั่น 683020564-6"
+
