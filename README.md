@@ -11,3 +11,5 @@
 
 
 "This sentence is written by นางสาวกุลศิริ เทศสนั่น 683020564-6"
+
+"This sentence is written by นางสาวสุพิชญา คงโพธิ์น้อย 683020597-1"
